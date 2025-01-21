@@ -55,3 +55,12 @@ if message.strip() != '':
 
         else:
             st.success("✅ This message does not indicate a crisis situation.")# st.info('Theme: ')    
+
+
+st.header('Test Prompts')
+
+st.write("1. I lost my job due to Covid 19 and I can't find a new one. I'm scared!")
+
+st.write("2. I miss my girlfriend so much and she left me for my best friend.")
+
+st.write("3. I am very depressed. I always have been. I don't know how to fix it. I've tried therapy and medicine but they don't seem to work.")
